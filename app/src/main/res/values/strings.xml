@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">homewrk43.4</string>
+    <string name="movie_name">Movie name</string>
+    <string name="about_movies">about movies</string>
+    <string name="movie_authors">Movie authors</string>
+    <string name="movie_date">Movie date</string>
+    <string name="save">Save</string>
+</resources>
